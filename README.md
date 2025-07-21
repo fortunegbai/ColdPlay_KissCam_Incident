@@ -1,5 +1,7 @@
 # Coldplay Kiss-Cam Scandal: A UX Ethics Case Study
 
+![](./images/Cover_Page.png)
+
 ## Executive Summary
 **Logged:** July 2025  
 **Overview:** A viral kiss-cam moment raised questions about UX, ethics, and audience behavior.  
@@ -7,8 +9,8 @@
 **Tags:** Product culture • UX ethics • Audience behavior • Virality  
 **Trigger event:** Coldplay’s concert in Greece captured a moment that drew widespread attention.
 
->_**Disclaimer**_:
-**_This document is a learning artifact created for educational and reflective purposes. It does not name or analyze the individuals featured in the viral clip, even though their identities were made public. The focus is strictly on product design, platform responsibility, and digital ethics, highlighting how real-world viral events shape public trust, user privacy, and product accountability._**
+**_Disclaimer_**:
+>**_This document is a learning artifact created for educational and reflective purposes. It does not name or analyze the individuals featured in the viral clip, even though their identities were made public. The focus is strictly on product design, platform responsibility, and digital ethics, highlighting how real-world viral events shape public trust, user privacy, and product accountability._**
 
 ## Exploring audience privacy, platform responsibility, and viral amplification
 
