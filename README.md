@@ -104,7 +104,7 @@ _Quick-reference checklist for PMs, designers, and engineers._
 If I were working on TikTok, Instagram, or a live-event platform, I’d consider:
 
 - **Context-flagging layers**: AI-driven prompts could be added when videos include ambiguous or emotionally charged footage
-- **Pause-and-reflect rollouts**: A short delay or confirmation step before sharing emotionally sensitive clips, especially after content reached over 55 million views 
+- **Pause-and-reflect rollouts**: A short delay or confirmation step before sharing emotionally sensitive clips, especially after content  reached 50+ million views, as seen in the Coldplay clip
 - **Audience consent UX**: Event tools could include default opt-outs or “no-cam” markers, noting that subjects were visibly uncomfortable on-camera
 These proposals are centered on preserving dignity in a digital environment that prizes virality.
 
