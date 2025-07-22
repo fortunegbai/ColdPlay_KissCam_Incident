@@ -14,7 +14,7 @@
 
 ## Exploring Audience Privacy, Platform Responsibility, and Viral Amplification
 
-This case study analyzes a real-world viral event; the Coldplay 2025 concert “kiss-cam” incident—through the lens of product design, digital ethics, and platform accountability. It unpacks how human behavior, content virality, and UI/UX choices can intersect to either protect or exploit personal privacy in public spaces.
+This case study analyzes a real-world viral event; the Coldplay 2025 concert “kiss-cam” incident through the lens of product design, digital ethics, and platform accountability. It unpacks how human behavior, content virality, and UI/UX choices can intersect to either protect or exploit personal privacy in public spaces.
 
 ## What Happened
 
@@ -101,7 +101,7 @@ _Quick-reference checklist for PMs, designers, and engineers._
 
 ##  Personal Reflection
 
-If I were working on TikTok, Instagram, or a live-event platform, I’d consider:
+If I were working on TikTok, Instagram, or other live-event platforms going forward, I’d conside:
 
 - **Context-flagging layers**: AI-driven prompts could be added when videos include ambiguous or emotionally charged footage
 - **Pause-and-reflect rollouts**: A short delay or confirmation step before sharing emotionally sensitive clips, especially after content  reached 50+ million views, as seen in the Coldplay clip
